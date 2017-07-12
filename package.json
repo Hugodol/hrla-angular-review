@@ -1,0 +1,14 @@
+{
+  "name": "hrla-angular-review",
+  "version": "1.0.0",
+  "author": "Hugo Dolemieux",
+  "license": "ISC",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-ui-router": "^1.0.3",
+    "axios": "^0.16.2"
+  }
+}
