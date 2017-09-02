@@ -4,7 +4,6 @@ angular.module('meme-generator')
   this.myMemes = [];
 })
 .component('app', {
-  bindings: {},
   controller: 'AppCtrl',
   templateUrl: 'src/templates/app.html',
 });
