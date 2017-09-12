@@ -1,5 +1,4 @@
 angular.module('meme-generator')
 
-.component('app', {
-  templateUrl: 'src/templates/app.html',
-});
+// TODO create 'app' component
+  // templateUrl: 'src/templates/app.html'
